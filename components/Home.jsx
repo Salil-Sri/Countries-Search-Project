@@ -1,6 +1,5 @@
 import React, { useState } from 'react'
 import Countrylist from './Countrylist';
-
 import Searchbar from './Searchbar';
 import SearchMenu from './SearchMenu';
 import '../style.css'
